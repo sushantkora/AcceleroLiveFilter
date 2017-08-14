@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Accelero Live Filter</string>
+    <string name="x">X =</string>
+    <string name="y">Y =</string>
+    <string name="z">Z =</string>
+    <string name="current_data_length">Current Data Length =</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="file_name">File name</string>
+    <string name="save">Save</string>
+</resources>
